@@ -1,6 +1,6 @@
-# arbeiten
+# Arbeiten
 
-> A Freelance App For College Students
+Arbeiten is a web-based freelance marketplace for college students. Businesses looking for part-time students can post their job requirements on the platform. Students who are interested in the listed jobs can apply.
 
 ## Build Setup
 
